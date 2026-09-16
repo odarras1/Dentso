@@ -203,14 +203,6 @@ Potential future improvements include:
 
 ---
 
-## 🎓 Academic Project
-
-**Bachelor's Thesis — Computer Science**
-German Jordanian University
-August 2025
-
-**Author:** Omar Wail Aldarras
-**Supervisor:** Dr. Samer Nofal
 
 ---
 
